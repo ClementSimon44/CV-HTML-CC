@@ -1,2 +1,2 @@
-# CV-HTML-CC
+# CV-HTML-CSS
 Mon CV en HTML + CSS
